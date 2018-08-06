@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Access-Control-Allow-Origin *",
-  "version": "0.9",
+  "version": "1.0",
   "description": "Allows to load remote content even if the server disallow CORS. (Provides a whitelist system)",
-  "homepage_url": "http://github.com",
+  "homepage_url": "https://github.com/ThomazPom/Moz-Ext-Access-Control-Allow-All-Origin",
   "icons": {
     "48": "icons/48.png",
     "96": "icons/2x.png"
